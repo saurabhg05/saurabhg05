@@ -30,17 +30,45 @@ Links of the Libraries.
 # directions
 
 <img src="screenshot/1.png">
+
+
 1.first get into the https://www.mohfw.gov.in/ right click on the given number and inspect the copy the xpath.
+
+
 <img src="screenshot/2.png">
+
+
 2.go to https://thingspeak.com/ create your free account then click on apps -> ThingsHTTP .
+
+
 <img src="screenshot/3.png">
+
+
 3.click on new thing.
+
+
 <img src="screenshot/4.png">
 <img src="screenshot/5.png">
+
+
 4.enter the name , url , and xpath into Parse String.
+
+
 <img src="screenshot/6.png">
+
+
 5.it would genrate API key copy.
 6.genrate API key similarly for other values.
+
+
 <img src="screenshot/7.png">
+
+
 7.past those API keys in the place of "xxxxxxxxx" as per instructed in the comment.
+
 <img src="screenshot/8.png">
+# working 
+
+<img src="screenshot/IMG_20200330_194215.png">
+
+<img src="screenshot/IMG_20200330_203941.png">
