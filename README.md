@@ -27,3 +27,7 @@ Links of the Libraries.
 1. esp8266
 2. OLED 0.96 i2c display
 
+# directions
+
+<img src="images/screenshot.png">
+1.first get into the https://www.mohfw.gov.in/ right click on the given number and inspect.
