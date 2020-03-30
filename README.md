@@ -23,11 +23,11 @@ Links of the Libraries.
 3. Adafruit_SSD1306.h Lib: https://bit.ly/2Uhb8Mc
 
 
-# hardware 
+# Hardware 
 1. esp8266
 2. OLED 0.96 i2c display
 
-# directions
+# Directions
 
 <img src="screenshot/1.png">
 
@@ -67,7 +67,7 @@ Links of the Libraries.
 7.past those API keys in the place of "xxxxxxxxx" as per instructed in the comment.
 
 <img src="screenshot/8.png">
-# working 
+# Working 
 
 <img src="screenshot/IMG_20200330_194215.png">
 
