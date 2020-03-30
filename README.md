@@ -1,5 +1,5 @@
 # saurabhg05
-# COVID-19 Data
+# COVID-19 Data (esp8266)
 COVID19 Data using esp8266 and oled display
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
