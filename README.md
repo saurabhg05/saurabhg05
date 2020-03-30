@@ -21,3 +21,8 @@ Links of the Libraries.
 1. ESP8266WiFi.h Lib: https://github.com/ekstrand/ESP8266wifi
 2. Adafruit_GFX.h Lib: https://bit.ly/2UhgvLq
 3. Adafruit_SSD1306.h Lib: https://bit.ly/2Uhb8Mc
+
+
+# hardware 
+1. esp8266
+2. OLED 0.96 i2c display
