@@ -29,5 +29,5 @@ Links of the Libraries.
 
 # directions
 
-<img src="images/screenshot.png">
+<img src="screenshot/1.png">
 1.first get into the https://www.mohfw.gov.in/ right click on the given number and inspect.
